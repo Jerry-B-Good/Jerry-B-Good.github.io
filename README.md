@@ -1,2 +1,3 @@
 # Jerry-B-Good.github.io
-Week 3 assignment
+A repository for practicing HTML resume-building.
+I set this up during a Week 3 assignment.
